@@ -17,7 +17,9 @@
 
 ## A.3 Dicionário de variáveis
 | Variável | Tipo | Descrição | Unidade |
-
+| :--- | :--- | :--- | :--- |
+| | | | |
+| | | | |
 
 ## A.4 Volume e granularidade
 * **Número de linhas / colunas:** 
