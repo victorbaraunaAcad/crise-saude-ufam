@@ -1,0 +1,53 @@
+[
+  {
+    "id": "37",
+    "variavel": "Produto Interno Bruto a preços correntes",
+    "unidade": "Mil Reais",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "5103403",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cuiabá (MT)"
+            },
+            "serie": {
+              "2021": "29743722"
+            }
+          },
+          {
+            "localidade": {
+              "id": "5208707",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Goiânia (GO)"
+            },
+            "serie": {
+              "2021": "59870499"
+            }
+          },
+          {
+            "localidade": {
+              "id": "5300108",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Brasília (DF)"
+            },
+            "serie": {
+              "2021": "286943782"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

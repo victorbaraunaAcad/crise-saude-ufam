@@ -1,0 +1,53 @@
+[
+  {
+    "id": "9324",
+    "variavel": "População residente estimada",
+    "unidade": "Pessoas",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "5103403",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cuiabá (MT)"
+            },
+            "serie": {
+              "2026": "698917"
+            }
+          },
+          {
+            "localidade": {
+              "id": "5208707",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Goiânia (GO)"
+            },
+            "serie": {
+              "2026": "1511709"
+            }
+          },
+          {
+            "localidade": {
+              "id": "5300108",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Brasília (DF)"
+            },
+            "serie": {
+              "2026": "3009996"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

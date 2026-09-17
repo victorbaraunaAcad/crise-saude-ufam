@@ -1,0 +1,7281 @@
+[
+  {
+    "id": "37",
+    "variavel": "Produto Interno Bruto a preços correntes",
+    "unidade": "Mil Reais",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "1300029",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alvarães - AM"
+            },
+            "serie": {
+              "2021": "217333"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300060",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Amaturá - AM"
+            },
+            "serie": {
+              "2021": "118872"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300086",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Anamã - AM"
+            },
+            "serie": {
+              "2021": "138599"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300102",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Anori - AM"
+            },
+            "serie": {
+              "2021": "248435"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300144",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Apuí - AM"
+            },
+            "serie": {
+              "2021": "297810"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300201",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Atalaia do Norte - AM"
+            },
+            "serie": {
+              "2021": "184947"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300300",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Autazes - AM"
+            },
+            "serie": {
+              "2021": "506341"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300409",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barcelos - AM"
+            },
+            "serie": {
+              "2021": "245622"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300508",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barreirinha - AM"
+            },
+            "serie": {
+              "2021": "344890"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300607",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Benjamin Constant - AM"
+            },
+            "serie": {
+              "2021": "388781"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300631",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Beruri - AM"
+            },
+            "serie": {
+              "2021": "211871"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300680",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista do Ramos - AM"
+            },
+            "serie": {
+              "2021": "182412"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300706",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boca do Acre - AM"
+            },
+            "serie": {
+              "2021": "512796"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300805",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Borba - AM"
+            },
+            "serie": {
+              "2021": "402131"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300839",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caapiranga - AM"
+            },
+            "serie": {
+              "2021": "177894"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1300904",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Canutama - AM"
+            },
+            "serie": {
+              "2021": "154316"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301001",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Carauari - AM"
+            },
+            "serie": {
+              "2021": "370663"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301100",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Careiro - AM"
+            },
+            "serie": {
+              "2021": "395194"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301159",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Careiro da Várzea - AM"
+            },
+            "serie": {
+              "2021": "413374"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301209",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coari - AM"
+            },
+            "serie": {
+              "2021": "3380325"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301308",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Codajás - AM"
+            },
+            "serie": {
+              "2021": "531995"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301407",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Eirunepé - AM"
+            },
+            "serie": {
+              "2021": "568036"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301506",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Envira - AM"
+            },
+            "serie": {
+              "2021": "215527"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301605",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Fonte Boa - AM"
+            },
+            "serie": {
+              "2021": "222773"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301654",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Guajará - AM"
+            },
+            "serie": {
+              "2021": "177320"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301704",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Humaitá - AM"
+            },
+            "serie": {
+              "2021": "860168"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301803",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ipixuna - AM"
+            },
+            "serie": {
+              "2021": "216519"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301852",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Iranduba - AM"
+            },
+            "serie": {
+              "2021": "1001862"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301902",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itacoatiara - AM"
+            },
+            "serie": {
+              "2021": "2350463"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1301951",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itamarati - AM"
+            },
+            "serie": {
+              "2021": "135620"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302009",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itapiranga - AM"
+            },
+            "serie": {
+              "2021": "152509"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302108",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Japurá - AM"
+            },
+            "serie": {
+              "2021": "85809"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302207",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Juruá - AM"
+            },
+            "serie": {
+              "2021": "138074"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302306",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jutaí - AM"
+            },
+            "serie": {
+              "2021": "266377"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302405",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lábrea - AM"
+            },
+            "serie": {
+              "2021": "625198"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302504",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Manacapuru - AM"
+            },
+            "serie": {
+              "2021": "1544675"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302553",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Manaquiri - AM"
+            },
+            "serie": {
+              "2021": "311335"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302603",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Manaus - AM"
+            },
+            "serie": {
+              "2021": "103281400"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302702",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Manicoré - AM"
+            },
+            "serie": {
+              "2021": "686279"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302801",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maraã - AM"
+            },
+            "serie": {
+              "2021": "176217"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1302900",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maués - AM"
+            },
+            "serie": {
+              "2021": "595826"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303007",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nhamundá - AM"
+            },
+            "serie": {
+              "2021": "207005"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303106",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Olinda do Norte - AM"
+            },
+            "serie": {
+              "2021": "341652"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303205",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Airão - AM"
+            },
+            "serie": {
+              "2021": "186533"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303304",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Aripuanã - AM"
+            },
+            "serie": {
+              "2021": "252422"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303403",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Parintins - AM"
+            },
+            "serie": {
+              "2021": "1426972"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303502",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pauini - AM"
+            },
+            "serie": {
+              "2021": "199541"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303536",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Presidente Figueiredo - AM"
+            },
+            "serie": {
+              "2021": "1031905"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303569",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rio Preto da Eva - AM"
+            },
+            "serie": {
+              "2021": "407146"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303601",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Isabel do Rio Negro - AM"
+            },
+            "serie": {
+              "2021": "185817"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303700",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Antônio do Içá - AM"
+            },
+            "serie": {
+              "2021": "237314"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303809",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Gabriel da Cachoeira - AM"
+            },
+            "serie": {
+              "2021": "423055"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303908",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Paulo de Olivença - AM"
+            },
+            "serie": {
+              "2021": "334131"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1303957",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Sebastião do Uatumã - AM"
+            },
+            "serie": {
+              "2021": "136609"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304005",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Silves - AM"
+            },
+            "serie": {
+              "2021": "175042"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304062",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tabatinga - AM"
+            },
+            "serie": {
+              "2021": "758035"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304104",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tapauá - AM"
+            },
+            "serie": {
+              "2021": "239944"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304203",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tefé - AM"
+            },
+            "serie": {
+              "2021": "1098392"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304237",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tonantins - AM"
+            },
+            "serie": {
+              "2021": "185410"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304260",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Uarini - AM"
+            },
+            "serie": {
+              "2021": "229209"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304302",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Urucará - AM"
+            },
+            "serie": {
+              "2021": "205656"
+            }
+          },
+          {
+            "localidade": {
+              "id": "1304401",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Urucurituba - AM"
+            },
+            "serie": {
+              "2021": "232661"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300034",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Aceguá - RS"
+            },
+            "serie": {
+              "2021": "458226"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300059",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Água Santa - RS"
+            },
+            "serie": {
+              "2021": "547413"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300109",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Agudo - RS"
+            },
+            "serie": {
+              "2021": "667877"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300208",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ajuricaba - RS"
+            },
+            "serie": {
+              "2021": "521060"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300307",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alecrim - RS"
+            },
+            "serie": {
+              "2021": "162073"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300406",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alegrete - RS"
+            },
+            "serie": {
+              "2021": "3079886"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300455",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alegria - RS"
+            },
+            "serie": {
+              "2021": "156623"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300471",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Almirante Tamandaré do Sul - RS"
+            },
+            "serie": {
+              "2021": "276412"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300505",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alpestre - RS"
+            },
+            "serie": {
+              "2021": "196384"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300554",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alto Alegre - RS"
+            },
+            "serie": {
+              "2021": "106142"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300570",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alto Feliz - RS"
+            },
+            "serie": {
+              "2021": "161549"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300604",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Alvorada - RS"
+            },
+            "serie": {
+              "2021": "3302273"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300638",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Amaral Ferrador - RS"
+            },
+            "serie": {
+              "2021": "147633"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300646",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ametista do Sul - RS"
+            },
+            "serie": {
+              "2021": "177772"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300661",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "André da Rocha - RS"
+            },
+            "serie": {
+              "2021": "193090"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300703",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Anta Gorda - RS"
+            },
+            "serie": {
+              "2021": "322293"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300802",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Antônio Prado - RS"
+            },
+            "serie": {
+              "2021": "797513"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300851",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arambaré - RS"
+            },
+            "serie": {
+              "2021": "285089"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300877",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Araricá - RS"
+            },
+            "serie": {
+              "2021": "236432"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4300901",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Aratiba - RS"
+            },
+            "serie": {
+              "2021": "946972"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301008",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio do Meio - RS"
+            },
+            "serie": {
+              "2021": "1536560"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301057",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio do Sal - RS"
+            },
+            "serie": {
+              "2021": "285580"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301073",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio do Padre - RS"
+            },
+            "serie": {
+              "2021": "76785"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301107",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio dos Ratos - RS"
+            },
+            "serie": {
+              "2021": "357348"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301206",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio do Tigre - RS"
+            },
+            "serie": {
+              "2021": "429273"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301305",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arroio Grande - RS"
+            },
+            "serie": {
+              "2021": "1131512"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301404",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Arvorezinha - RS"
+            },
+            "serie": {
+              "2021": "336248"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301503",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Augusto Pestana - RS"
+            },
+            "serie": {
+              "2021": "504184"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301552",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Áurea - RS"
+            },
+            "serie": {
+              "2021": "163439"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301602",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bagé - RS"
+            },
+            "serie": {
+              "2021": "3748437"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301636",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Balneário Pinhal - RS"
+            },
+            "serie": {
+              "2021": "312095"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301651",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barão - RS"
+            },
+            "serie": {
+              "2021": "308102"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301701",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barão de Cotegipe - RS"
+            },
+            "serie": {
+              "2021": "341674"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301750",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barão do Triunfo - RS"
+            },
+            "serie": {
+              "2021": "142319"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301800",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barracão - RS"
+            },
+            "serie": {
+              "2021": "317085"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301859",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barra do Guarita - RS"
+            },
+            "serie": {
+              "2021": "56812"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301875",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barra do Quaraí - RS"
+            },
+            "serie": {
+              "2021": "386183"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301909",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barra do Ribeiro - RS"
+            },
+            "serie": {
+              "2021": "507428"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301925",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barra do Rio Azul - RS"
+            },
+            "serie": {
+              "2021": "80748"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4301958",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barra Funda - RS"
+            },
+            "serie": {
+              "2021": "165030"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302006",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Barros Cassal - RS"
+            },
+            "serie": {
+              "2021": "244514"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302055",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Benjamin Constant do Sul - RS"
+            },
+            "serie": {
+              "2021": "49314"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302105",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bento Gonçalves - RS"
+            },
+            "serie": {
+              "2021": "7498525"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302154",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista das Missões - RS"
+            },
+            "serie": {
+              "2021": "238522"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302204",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista do Buricá - RS"
+            },
+            "serie": {
+              "2021": "326887"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302220",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista do Cadeado - RS"
+            },
+            "serie": {
+              "2021": "468752"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302238",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista do Incra - RS"
+            },
+            "serie": {
+              "2021": "384174"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302253",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boa Vista do Sul - RS"
+            },
+            "serie": {
+              "2021": "120127"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302303",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bom Jesus - RS"
+            },
+            "serie": {
+              "2021": "613624"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302352",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bom Princípio - RS"
+            },
+            "serie": {
+              "2021": "906596"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302378",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bom Progresso - RS"
+            },
+            "serie": {
+              "2021": "86280"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302402",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bom Retiro do Sul - RS"
+            },
+            "serie": {
+              "2021": "403056"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302451",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Boqueirão do Leão - RS"
+            },
+            "serie": {
+              "2021": "150395"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302501",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bossoroca - RS"
+            },
+            "serie": {
+              "2021": "490599"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302584",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Bozano - RS"
+            },
+            "serie": {
+              "2021": "227410"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302600",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Braga - RS"
+            },
+            "serie": {
+              "2021": "130949"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302659",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Brochier - RS"
+            },
+            "serie": {
+              "2021": "117701"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302709",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Butiá - RS"
+            },
+            "serie": {
+              "2021": "543351"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302808",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caçapava do Sul - RS"
+            },
+            "serie": {
+              "2021": "1122674"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4302907",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cacequi - RS"
+            },
+            "serie": {
+              "2021": "623088"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303004",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cachoeira do Sul - RS"
+            },
+            "serie": {
+              "2021": "3542706"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303103",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cachoeirinha - RS"
+            },
+            "serie": {
+              "2021": "6458504"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303202",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cacique Doble - RS"
+            },
+            "serie": {
+              "2021": "169236"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303301",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caibaté - RS"
+            },
+            "serie": {
+              "2021": "264916"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303400",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caiçara - RS"
+            },
+            "serie": {
+              "2021": "149122"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303509",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Camaquã - RS"
+            },
+            "serie": {
+              "2021": "2723674"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303558",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Camargo - RS"
+            },
+            "serie": {
+              "2021": "520483"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303608",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cambará do Sul - RS"
+            },
+            "serie": {
+              "2021": "242578"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303673",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campestre da Serra - RS"
+            },
+            "serie": {
+              "2021": "204703"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303707",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campina das Missões - RS"
+            },
+            "serie": {
+              "2021": "239170"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303806",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campinas do Sul - RS"
+            },
+            "serie": {
+              "2021": "399404"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4303905",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campo Bom - RS"
+            },
+            "serie": {
+              "2021": "3600083"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304002",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campo Novo - RS"
+            },
+            "serie": {
+              "2021": "325740"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304101",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Campos Borges - RS"
+            },
+            "serie": {
+              "2021": "150034"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304200",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Candelária - RS"
+            },
+            "serie": {
+              "2021": "1078191"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304309",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cândido Godói - RS"
+            },
+            "serie": {
+              "2021": "358438"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304358",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Candiota - RS"
+            },
+            "serie": {
+              "2021": "2744010"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304408",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Canela - RS"
+            },
+            "serie": {
+              "2021": "1595265"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304507",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Canguçu - RS"
+            },
+            "serie": {
+              "2021": "1660011"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304606",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Canoas - RS"
+            },
+            "serie": {
+              "2021": "21995418"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304614",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Canudos do Vale - RS"
+            },
+            "serie": {
+              "2021": "67988"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304622",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capão Bonito do Sul - RS"
+            },
+            "serie": {
+              "2021": "342053"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304630",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capão da Canoa - RS"
+            },
+            "serie": {
+              "2021": "1966028"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304655",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capão do Cipó - RS"
+            },
+            "serie": {
+              "2021": "644965"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304663",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capão do Leão - RS"
+            },
+            "serie": {
+              "2021": "830088"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304671",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capivari do Sul - RS"
+            },
+            "serie": {
+              "2021": "386834"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304689",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capela de Santana - RS"
+            },
+            "serie": {
+              "2021": "298588"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304697",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Capitão - RS"
+            },
+            "serie": {
+              "2021": "95379"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304705",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Carazinho - RS"
+            },
+            "serie": {
+              "2021": "3846858"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304713",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caraá - RS"
+            },
+            "serie": {
+              "2021": "165661"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304804",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Carlos Barbosa - RS"
+            },
+            "serie": {
+              "2021": "3529584"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304853",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Carlos Gomes - RS"
+            },
+            "serie": {
+              "2021": "70447"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304903",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Casca - RS"
+            },
+            "serie": {
+              "2021": "717921"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4304952",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caseiros - RS"
+            },
+            "serie": {
+              "2021": "199197"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305009",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Catuípe - RS"
+            },
+            "serie": {
+              "2021": "638112"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305108",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Caxias do Sul - RS"
+            },
+            "serie": {
+              "2021": "31688552"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305116",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Centenário - RS"
+            },
+            "serie": {
+              "2021": "120779"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305124",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cerrito - RS"
+            },
+            "serie": {
+              "2021": "161328"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305132",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cerro Branco - RS"
+            },
+            "serie": {
+              "2021": "90159"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305157",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cerro Grande - RS"
+            },
+            "serie": {
+              "2021": "74182"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305173",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cerro Grande do Sul - RS"
+            },
+            "serie": {
+              "2021": "203184"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305207",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cerro Largo - RS"
+            },
+            "serie": {
+              "2021": "796777"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305306",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Chapada - RS"
+            },
+            "serie": {
+              "2021": "741828"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305355",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Charqueadas - RS"
+            },
+            "serie": {
+              "2021": "1736983"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305371",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Charrua - RS"
+            },
+            "serie": {
+              "2021": "149352"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305405",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Chiapetta - RS"
+            },
+            "serie": {
+              "2021": "388836"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305439",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Chuí - RS"
+            },
+            "serie": {
+              "2021": "370303"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305447",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Chuvisca - RS"
+            },
+            "serie": {
+              "2021": "129741"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305454",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cidreira - RS"
+            },
+            "serie": {
+              "2021": "362063"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305504",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ciríaco - RS"
+            },
+            "serie": {
+              "2021": "264361"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305587",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Colinas - RS"
+            },
+            "serie": {
+              "2021": "87210"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305603",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Colorado - RS"
+            },
+            "serie": {
+              "2021": "338158"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305702",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Condor - RS"
+            },
+            "serie": {
+              "2021": "624707"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305801",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Constantina - RS"
+            },
+            "serie": {
+              "2021": "432350"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305835",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coqueiro Baixo - RS"
+            },
+            "serie": {
+              "2021": "52164"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305850",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coqueiros do Sul - RS"
+            },
+            "serie": {
+              "2021": "190145"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305871",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coronel Barros - RS"
+            },
+            "serie": {
+              "2021": "226126"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305900",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coronel Bicaco - RS"
+            },
+            "serie": {
+              "2021": "515154"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305934",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coronel Pilar - RS"
+            },
+            "serie": {
+              "2021": "49060"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305959",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cotiporã - RS"
+            },
+            "serie": {
+              "2021": "167929"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4305975",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Coxilha - RS"
+            },
+            "serie": {
+              "2021": "422465"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306007",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Crissiumal - RS"
+            },
+            "serie": {
+              "2021": "508979"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306056",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cristal - RS"
+            },
+            "serie": {
+              "2021": "308908"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306072",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cristal do Sul - RS"
+            },
+            "serie": {
+              "2021": "94741"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306106",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cruz Alta - RS"
+            },
+            "serie": {
+              "2021": "4609397"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306130",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cruzaltense - RS"
+            },
+            "serie": {
+              "2021": "144764"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306205",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Cruzeiro do Sul - RS"
+            },
+            "serie": {
+              "2021": "533004"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306304",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "David Canabarro - RS"
+            },
+            "serie": {
+              "2021": "229364"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306320",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Derrubadas - RS"
+            },
+            "serie": {
+              "2021": "148408"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306353",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dezesseis de Novembro - RS"
+            },
+            "serie": {
+              "2021": "57175"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306379",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dilermando de Aguiar - RS"
+            },
+            "serie": {
+              "2021": "267902"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306403",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dois Irmãos - RS"
+            },
+            "serie": {
+              "2021": "2188545"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306429",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dois Irmãos das Missões - RS"
+            },
+            "serie": {
+              "2021": "199195"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306452",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dois Lajeados - RS"
+            },
+            "serie": {
+              "2021": "172602"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306502",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dom Feliciano - RS"
+            },
+            "serie": {
+              "2021": "356860"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306551",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dom Pedro de Alcântara - RS"
+            },
+            "serie": {
+              "2021": "65534"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306601",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dom Pedrito - RS"
+            },
+            "serie": {
+              "2021": "2210948"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306700",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Dona Francisca - RS"
+            },
+            "serie": {
+              "2021": "106596"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306734",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Doutor Maurício Cardoso - RS"
+            },
+            "serie": {
+              "2021": "260797"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306759",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Doutor Ricardo - RS"
+            },
+            "serie": {
+              "2021": "78891"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306767",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Eldorado do Sul - RS"
+            },
+            "serie": {
+              "2021": "2120269"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306809",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Encantado - RS"
+            },
+            "serie": {
+              "2021": "1168358"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306908",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Encruzilhada do Sul - RS"
+            },
+            "serie": {
+              "2021": "1080949"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306924",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Engenho Velho - RS"
+            },
+            "serie": {
+              "2021": "73214"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306932",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Entre-Ijuís - RS"
+            },
+            "serie": {
+              "2021": "687578"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306957",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Entre Rios do Sul - RS"
+            },
+            "serie": {
+              "2021": "207517"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4306973",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Erebango - RS"
+            },
+            "serie": {
+              "2021": "180479"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307005",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Erechim - RS"
+            },
+            "serie": {
+              "2021": "6882629"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307054",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ernestina - RS"
+            },
+            "serie": {
+              "2021": "265549"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307104",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Herval - RS"
+            },
+            "serie": {
+              "2021": "253608"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307203",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Erval Grande - RS"
+            },
+            "serie": {
+              "2021": "150883"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307302",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Erval Seco - RS"
+            },
+            "serie": {
+              "2021": "353968"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307401",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Esmeralda - RS"
+            },
+            "serie": {
+              "2021": "392860"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307450",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Esperança do Sul - RS"
+            },
+            "serie": {
+              "2021": "116731"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307500",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Espumoso - RS"
+            },
+            "serie": {
+              "2021": "1113106"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307559",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Estação - RS"
+            },
+            "serie": {
+              "2021": "350708"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307609",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Estância Velha - RS"
+            },
+            "serie": {
+              "2021": "1875498"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307708",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Esteio - RS"
+            },
+            "serie": {
+              "2021": "3749900"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307807",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Estrela - RS"
+            },
+            "serie": {
+              "2021": "2171447"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307815",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Estrela Velha - RS"
+            },
+            "serie": {
+              "2021": "197415"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307831",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Eugênio de Castro - RS"
+            },
+            "serie": {
+              "2021": "405444"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307864",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Fagundes Varela - RS"
+            },
+            "serie": {
+              "2021": "197919"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4307906",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Farroupilha - RS"
+            },
+            "serie": {
+              "2021": "4398457"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308003",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Faxinal do Soturno - RS"
+            },
+            "serie": {
+              "2021": "270106"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308052",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Faxinalzinho - RS"
+            },
+            "serie": {
+              "2021": "103166"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308078",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Fazenda Vilanova - RS"
+            },
+            "serie": {
+              "2021": "140824"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308102",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Feliz - RS"
+            },
+            "serie": {
+              "2021": "589355"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308201",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Flores da Cunha - RS"
+            },
+            "serie": {
+              "2021": "2538142"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308250",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Floriano Peixoto - RS"
+            },
+            "serie": {
+              "2021": "103059"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308300",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Fontoura Xavier - RS"
+            },
+            "serie": {
+              "2021": "227470"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308409",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Formigueiro - RS"
+            },
+            "serie": {
+              "2021": "302801"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308433",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Forquetinha - RS"
+            },
+            "serie": {
+              "2021": "58940"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308458",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Fortaleza dos Valos - RS"
+            },
+            "serie": {
+              "2021": "564773"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308508",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Frederico Westphalen - RS"
+            },
+            "serie": {
+              "2021": "1430611"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308607",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Garibaldi - RS"
+            },
+            "serie": {
+              "2021": "2997969"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308656",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Garruchos - RS"
+            },
+            "serie": {
+              "2021": "200967"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308706",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gaurama - RS"
+            },
+            "serie": {
+              "2021": "282773"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308805",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "General Câmara - RS"
+            },
+            "serie": {
+              "2021": "276374"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308854",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gentil - RS"
+            },
+            "serie": {
+              "2021": "190648"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4308904",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Getúlio Vargas - RS"
+            },
+            "serie": {
+              "2021": "793664"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309001",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Giruá - RS"
+            },
+            "serie": {
+              "2021": "1202945"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309050",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Glorinha - RS"
+            },
+            "serie": {
+              "2021": "461888"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309100",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gramado - RS"
+            },
+            "serie": {
+              "2021": "2658034"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309126",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gramado dos Loureiros - RS"
+            },
+            "serie": {
+              "2021": "94580"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309159",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gramado Xavier - RS"
+            },
+            "serie": {
+              "2021": "109483"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309209",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Gravataí - RS"
+            },
+            "serie": {
+              "2021": "10261656"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309258",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Guabiju - RS"
+            },
+            "serie": {
+              "2021": "132788"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309308",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Guaíba - RS"
+            },
+            "serie": {
+              "2021": "8284825"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309407",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Guaporé - RS"
+            },
+            "serie": {
+              "2021": "1149055"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309506",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Guarani das Missões - RS"
+            },
+            "serie": {
+              "2021": "362625"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309555",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Harmonia - RS"
+            },
+            "serie": {
+              "2021": "245497"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309571",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Herveiras - RS"
+            },
+            "serie": {
+              "2021": "71143"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309605",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Horizontina - RS"
+            },
+            "serie": {
+              "2021": "2608198"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309654",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Hulha Negra - RS"
+            },
+            "serie": {
+              "2021": "314488"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309704",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Humaitá - RS"
+            },
+            "serie": {
+              "2021": "229249"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309753",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ibarama - RS"
+            },
+            "serie": {
+              "2021": "112227"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309803",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ibiaçá - RS"
+            },
+            "serie": {
+              "2021": "367295"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309902",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ibiraiaras - RS"
+            },
+            "serie": {
+              "2021": "399693"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4309951",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ibirapuitã - RS"
+            },
+            "serie": {
+              "2021": "213522"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310009",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ibirubá - RS"
+            },
+            "serie": {
+              "2021": "1722057"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310108",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Igrejinha - RS"
+            },
+            "serie": {
+              "2021": "1888887"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310207",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ijuí - RS"
+            },
+            "serie": {
+              "2021": "5190405"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310306",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ilópolis - RS"
+            },
+            "serie": {
+              "2021": "140570"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310330",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Imbé - RS"
+            },
+            "serie": {
+              "2021": "626823"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310363",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Imigrante - RS"
+            },
+            "serie": {
+              "2021": "519190"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310405",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Independência - RS"
+            },
+            "serie": {
+              "2021": "494166"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310413",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Inhacorá - RS"
+            },
+            "serie": {
+              "2021": "110557"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310439",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ipê - RS"
+            },
+            "serie": {
+              "2021": "298583"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310462",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ipiranga do Sul - RS"
+            },
+            "serie": {
+              "2021": "177629"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310504",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Iraí - RS"
+            },
+            "serie": {
+              "2021": "254492"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310538",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itaara - RS"
+            },
+            "serie": {
+              "2021": "286659"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310553",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itacurubi - RS"
+            },
+            "serie": {
+              "2021": "246287"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310579",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itapuca - RS"
+            },
+            "serie": {
+              "2021": "94235"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310603",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itaqui - RS"
+            },
+            "serie": {
+              "2021": "2186929"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310652",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itati - RS"
+            },
+            "serie": {
+              "2021": "86739"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310702",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Itatiba do Sul - RS"
+            },
+            "serie": {
+              "2021": "81707"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310751",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ivorá - RS"
+            },
+            "serie": {
+              "2021": "71911"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310801",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ivoti - RS"
+            },
+            "serie": {
+              "2021": "1180387"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310850",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jaboticaba - RS"
+            },
+            "serie": {
+              "2021": "136730"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310876",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jacuizinho - RS"
+            },
+            "serie": {
+              "2021": "224027"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4310900",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jacutinga - RS"
+            },
+            "serie": {
+              "2021": "232301"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311007",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jaguarão - RS"
+            },
+            "serie": {
+              "2021": "1059396"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311106",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jaguari - RS"
+            },
+            "serie": {
+              "2021": "378020"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311122",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jaquirana - RS"
+            },
+            "serie": {
+              "2021": "94042"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311130",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jari - RS"
+            },
+            "serie": {
+              "2021": "469006"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311155",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Jóia - RS"
+            },
+            "serie": {
+              "2021": "975410"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311205",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Júlio de Castilhos - RS"
+            },
+            "serie": {
+              "2021": "1925175"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311239",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lagoa Bonita do Sul - RS"
+            },
+            "serie": {
+              "2021": "68916"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311254",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lagoão - RS"
+            },
+            "serie": {
+              "2021": "154690"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311270",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lagoa dos Três Cantos - RS"
+            },
+            "serie": {
+              "2021": "157140"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311304",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lagoa Vermelha - RS"
+            },
+            "serie": {
+              "2021": "1513404"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311403",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lajeado - RS"
+            },
+            "serie": {
+              "2021": "5596183"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311429",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lajeado do Bugre - RS"
+            },
+            "serie": {
+              "2021": "74875"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311502",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lavras do Sul - RS"
+            },
+            "serie": {
+              "2021": "497629"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311601",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Liberato Salzano - RS"
+            },
+            "serie": {
+              "2021": "172443"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311627",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Lindolfo Collor - RS"
+            },
+            "serie": {
+              "2021": "365850"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311643",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Linha Nova - RS"
+            },
+            "serie": {
+              "2021": "65579"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311700",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Machadinho - RS"
+            },
+            "serie": {
+              "2021": "272824"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311718",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maçambará - RS"
+            },
+            "serie": {
+              "2021": "582043"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311734",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mampituba - RS"
+            },
+            "serie": {
+              "2021": "70214"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311759",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Manoel Viana - RS"
+            },
+            "serie": {
+              "2021": "546972"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311775",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maquiné - RS"
+            },
+            "serie": {
+              "2021": "190484"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311791",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maratá - RS"
+            },
+            "serie": {
+              "2021": "80817"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311809",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Marau - RS"
+            },
+            "serie": {
+              "2021": "3060022"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311908",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Marcelino Ramos - RS"
+            },
+            "serie": {
+              "2021": "167825"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4311981",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mariana Pimentel - RS"
+            },
+            "serie": {
+              "2021": "104496"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312005",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mariano Moro - RS"
+            },
+            "serie": {
+              "2021": "72888"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312054",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Marques de Souza - RS"
+            },
+            "serie": {
+              "2021": "124135"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312104",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mata - RS"
+            },
+            "serie": {
+              "2021": "169006"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312138",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mato Castelhano - RS"
+            },
+            "serie": {
+              "2021": "168255"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312153",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mato Leitão - RS"
+            },
+            "serie": {
+              "2021": "180537"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312179",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mato Queimado - RS"
+            },
+            "serie": {
+              "2021": "88446"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312203",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Maximiliano de Almeida - RS"
+            },
+            "serie": {
+              "2021": "161123"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312252",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Minas do Leão - RS"
+            },
+            "serie": {
+              "2021": "279177"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312302",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Miraguaí - RS"
+            },
+            "serie": {
+              "2021": "190386"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312351",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Montauri - RS"
+            },
+            "serie": {
+              "2021": "98138"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312377",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Monte Alegre dos Campos - RS"
+            },
+            "serie": {
+              "2021": "109730"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312385",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Monte Belo do Sul - RS"
+            },
+            "serie": {
+              "2021": "94435"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312401",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Montenegro - RS"
+            },
+            "serie": {
+              "2021": "5752345"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312427",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mormaço - RS"
+            },
+            "serie": {
+              "2021": "153334"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312443",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Morrinhos do Sul - RS"
+            },
+            "serie": {
+              "2021": "81466"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312450",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Morro Redondo - RS"
+            },
+            "serie": {
+              "2021": "132445"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312476",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Morro Reuter - RS"
+            },
+            "serie": {
+              "2021": "274167"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312500",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Mostardas - RS"
+            },
+            "serie": {
+              "2021": "643326"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312609",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Muçum - RS"
+            },
+            "serie": {
+              "2021": "301852"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312617",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Muitos Capões - RS"
+            },
+            "serie": {
+              "2021": "1122086"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312625",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Muliterno - RS"
+            },
+            "serie": {
+              "2021": "91988"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312658",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Não-Me-Toque - RS"
+            },
+            "serie": {
+              "2021": "2207535"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312674",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nicolau Vergueiro - RS"
+            },
+            "serie": {
+              "2021": "146252"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312708",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nonoai - RS"
+            },
+            "serie": {
+              "2021": "525507"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312757",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Alvorada - RS"
+            },
+            "serie": {
+              "2021": "236575"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312807",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Araçá - RS"
+            },
+            "serie": {
+              "2021": "327226"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312906",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Bassano - RS"
+            },
+            "serie": {
+              "2021": "802207"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4312955",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Boa Vista - RS"
+            },
+            "serie": {
+              "2021": "145343"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313003",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Bréscia - RS"
+            },
+            "serie": {
+              "2021": "141144"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313011",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Candelária - RS"
+            },
+            "serie": {
+              "2021": "229431"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313037",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Esperança do Sul - RS"
+            },
+            "serie": {
+              "2021": "172366"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313060",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Hartz - RS"
+            },
+            "serie": {
+              "2021": "805698"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313086",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Pádua - RS"
+            },
+            "serie": {
+              "2021": "100211"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313102",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Palma - RS"
+            },
+            "serie": {
+              "2021": "382689"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313201",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Petrópolis - RS"
+            },
+            "serie": {
+              "2021": "972689"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313300",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Prata - RS"
+            },
+            "serie": {
+              "2021": "1730043"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313334",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Ramada - RS"
+            },
+            "serie": {
+              "2021": "304678"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313359",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Roma do Sul - RS"
+            },
+            "serie": {
+              "2021": "169305"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313375",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Nova Santa Rita - RS"
+            },
+            "serie": {
+              "2021": "2487522"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313391",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Cabrais - RS"
+            },
+            "serie": {
+              "2021": "133172"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313409",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Hamburgo - RS"
+            },
+            "serie": {
+              "2021": "10037923"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313425",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Machado - RS"
+            },
+            "serie": {
+              "2021": "186355"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313441",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Tiradentes - RS"
+            },
+            "serie": {
+              "2021": "74729"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313466",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Xingu - RS"
+            },
+            "serie": {
+              "2021": "75034"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313490",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Novo Barreiro - RS"
+            },
+            "serie": {
+              "2021": "135200"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313508",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Osório - RS"
+            },
+            "serie": {
+              "2021": "1819038"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313607",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Paim Filho - RS"
+            },
+            "serie": {
+              "2021": "167646"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313656",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Palmares do Sul - RS"
+            },
+            "serie": {
+              "2021": "735606"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313706",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Palmeira das Missões - RS"
+            },
+            "serie": {
+              "2021": "2215057"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313805",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Palmitinho - RS"
+            },
+            "serie": {
+              "2021": "271643"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313904",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Panambi - RS"
+            },
+            "serie": {
+              "2021": "3167752"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4313953",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pantano Grande - RS"
+            },
+            "serie": {
+              "2021": "533689"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314001",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Paraí - RS"
+            },
+            "serie": {
+              "2021": "424447"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314027",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Paraíso do Sul - RS"
+            },
+            "serie": {
+              "2021": "207386"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314035",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pareci Novo - RS"
+            },
+            "serie": {
+              "2021": "136435"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314050",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Parobé - RS"
+            },
+            "serie": {
+              "2021": "1390320"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314068",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Passa Sete - RS"
+            },
+            "serie": {
+              "2021": "132983"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314076",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Passo do Sobrado - RS"
+            },
+            "serie": {
+              "2021": "229641"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314100",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Passo Fundo - RS"
+            },
+            "serie": {
+              "2021": "12552867"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314134",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Paulo Bento - RS"
+            },
+            "serie": {
+              "2021": "195870"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314159",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Paverama - RS"
+            },
+            "serie": {
+              "2021": "242458"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314175",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pedras Altas - RS"
+            },
+            "serie": {
+              "2021": "386190"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314209",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pedro Osório - RS"
+            },
+            "serie": {
+              "2021": "270651"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314308",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pejuçara - RS"
+            },
+            "serie": {
+              "2021": "464212"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314407",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pelotas - RS"
+            },
+            "serie": {
+              "2021": "10778176"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314423",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Picada Café - RS"
+            },
+            "serie": {
+              "2021": "386453"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314456",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinhal - RS"
+            },
+            "serie": {
+              "2021": "123342"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314464",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinhal da Serra - RS"
+            },
+            "serie": {
+              "2021": "304725"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314472",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinhal Grande - RS"
+            },
+            "serie": {
+              "2021": "931834"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314498",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinheirinho do Vale - RS"
+            },
+            "serie": {
+              "2021": "131549"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314506",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinheiro Machado - RS"
+            },
+            "serie": {
+              "2021": "397726"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314548",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pinto Bandeira - RS"
+            },
+            "serie": {
+              "2021": "74286"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314555",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pirapó - RS"
+            },
+            "serie": {
+              "2021": "94672"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314605",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Piratini - RS"
+            },
+            "serie": {
+              "2021": "880277"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314704",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Planalto - RS"
+            },
+            "serie": {
+              "2021": "252508"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314753",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Poço das Antas - RS"
+            },
+            "serie": {
+              "2021": "131757"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314779",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pontão - RS"
+            },
+            "serie": {
+              "2021": "403317"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314787",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ponte Preta - RS"
+            },
+            "serie": {
+              "2021": "96049"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314803",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Portão - RS"
+            },
+            "serie": {
+              "2021": "1662403"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4314902",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Porto Alegre - RS"
+            },
+            "serie": {
+              "2021": "81563063"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315008",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Porto Lucena - RS"
+            },
+            "serie": {
+              "2021": "135662"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315057",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Porto Mauá - RS"
+            },
+            "serie": {
+              "2021": "89350"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315073",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Porto Vera Cruz - RS"
+            },
+            "serie": {
+              "2021": "45212"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315107",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Porto Xavier - RS"
+            },
+            "serie": {
+              "2021": "210927"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315131",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Pouso Novo - RS"
+            },
+            "serie": {
+              "2021": "61420"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315149",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Presidente Lucena - RS"
+            },
+            "serie": {
+              "2021": "213813"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315156",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Progresso - RS"
+            },
+            "serie": {
+              "2021": "166517"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315172",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Protásio Alves - RS"
+            },
+            "serie": {
+              "2021": "93263"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315206",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Putinga - RS"
+            },
+            "serie": {
+              "2021": "133443"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315305",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Quaraí - RS"
+            },
+            "serie": {
+              "2021": "625752"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315313",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Quatro Irmãos - RS"
+            },
+            "serie": {
+              "2021": "185963"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315321",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Quevedos - RS"
+            },
+            "serie": {
+              "2021": "299304"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315354",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Quinze de Novembro - RS"
+            },
+            "serie": {
+              "2021": "255121"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315404",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Redentora - RS"
+            },
+            "serie": {
+              "2021": "232904"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315453",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Relvado - RS"
+            },
+            "serie": {
+              "2021": "82687"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315503",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Restinga Sêca - RS"
+            },
+            "serie": {
+              "2021": "673423"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315552",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rio dos Índios - RS"
+            },
+            "serie": {
+              "2021": "136486"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315602",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rio Grande - RS"
+            },
+            "serie": {
+              "2021": "13282201"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315701",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rio Pardo - RS"
+            },
+            "serie": {
+              "2021": "1390525"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315750",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Riozinho - RS"
+            },
+            "serie": {
+              "2021": "155849"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315800",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Roca Sales - RS"
+            },
+            "serie": {
+              "2021": "576083"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315909",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rodeio Bonito - RS"
+            },
+            "serie": {
+              "2021": "279280"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4315958",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rolador - RS"
+            },
+            "serie": {
+              "2021": "161914"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316006",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rolante - RS"
+            },
+            "serie": {
+              "2021": "731611"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316105",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ronda Alta - RS"
+            },
+            "serie": {
+              "2021": "471554"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316204",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rondinha - RS"
+            },
+            "serie": {
+              "2021": "268874"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316303",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Roque Gonzales - RS"
+            },
+            "serie": {
+              "2021": "437026"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316402",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Rosário do Sul - RS"
+            },
+            "serie": {
+              "2021": "1381976"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316428",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sagrada Família - RS"
+            },
+            "serie": {
+              "2021": "82616"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316436",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Saldanha Marinho - RS"
+            },
+            "serie": {
+              "2021": "254248"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316451",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Salto do Jacuí - RS"
+            },
+            "serie": {
+              "2021": "1213458"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316477",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Salvador das Missões - RS"
+            },
+            "serie": {
+              "2021": "178470"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316501",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Salvador do Sul - RS"
+            },
+            "serie": {
+              "2021": "337663"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316600",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sananduva - RS"
+            },
+            "serie": {
+              "2021": "843826"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316709",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Bárbara do Sul - RS"
+            },
+            "serie": {
+              "2021": "1336030"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316733",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Cecília do Sul - RS"
+            },
+            "serie": {
+              "2021": "143880"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316758",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Clara do Sul - RS"
+            },
+            "serie": {
+              "2021": "339107"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316808",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Cruz do Sul - RS"
+            },
+            "serie": {
+              "2021": "9815201"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316907",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Maria - RS"
+            },
+            "serie": {
+              "2021": "9562066"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316956",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Maria do Herval - RS"
+            },
+            "serie": {
+              "2021": "279409"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4316972",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Margarida do Sul - RS"
+            },
+            "serie": {
+              "2021": "361016"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317004",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santana da Boa Vista - RS"
+            },
+            "serie": {
+              "2021": "364901"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317103",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sant'Ana do Livramento - RS"
+            },
+            "serie": {
+              "2021": "2823928"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317202",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Rosa - RS"
+            },
+            "serie": {
+              "2021": "3732053"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317251",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Tereza - RS"
+            },
+            "serie": {
+              "2021": "49851"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317301",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santa Vitória do Palmar - RS"
+            },
+            "serie": {
+              "2021": "1755631"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317400",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santiago - RS"
+            },
+            "serie": {
+              "2021": "2021451"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317509",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Ângelo - RS"
+            },
+            "serie": {
+              "2021": "3180273"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317558",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Antônio do Palma - RS"
+            },
+            "serie": {
+              "2021": "119797"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317608",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Antônio da Patrulha - RS"
+            },
+            "serie": {
+              "2021": "1680505"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317707",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Antônio das Missões - RS"
+            },
+            "serie": {
+              "2021": "673946"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317756",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Antônio do Planalto - RS"
+            },
+            "serie": {
+              "2021": "189470"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317806",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Augusto - RS"
+            },
+            "serie": {
+              "2021": "848439"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317905",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Cristo - RS"
+            },
+            "serie": {
+              "2021": "784071"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4317954",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Santo Expedito do Sul - RS"
+            },
+            "serie": {
+              "2021": "128953"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318002",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Borja - RS"
+            },
+            "serie": {
+              "2021": "2570766"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318051",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Domingos do Sul - RS"
+            },
+            "serie": {
+              "2021": "123436"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318101",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Francisco de Assis - RS"
+            },
+            "serie": {
+              "2021": "804124"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318200",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Francisco de Paula - RS"
+            },
+            "serie": {
+              "2021": "1026518"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318309",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Gabriel - RS"
+            },
+            "serie": {
+              "2021": "2723193"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318408",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Jerônimo - RS"
+            },
+            "serie": {
+              "2021": "667014"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318424",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São João da Urtiga - RS"
+            },
+            "serie": {
+              "2021": "184149"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318432",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São João do Polêsine - RS"
+            },
+            "serie": {
+              "2021": "104818"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318440",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Jorge - RS"
+            },
+            "serie": {
+              "2021": "133331"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318457",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José das Missões - RS"
+            },
+            "serie": {
+              "2021": "93351"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318465",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Herval - RS"
+            },
+            "serie": {
+              "2021": "59113"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318481",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Hortêncio - RS"
+            },
+            "serie": {
+              "2021": "117866"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318499",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Inhacorá - RS"
+            },
+            "serie": {
+              "2021": "183794"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318507",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Norte - RS"
+            },
+            "serie": {
+              "2021": "792704"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318606",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Ouro - RS"
+            },
+            "serie": {
+              "2021": "463018"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318614",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José do Sul - RS"
+            },
+            "serie": {
+              "2021": "94019"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318622",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São José dos Ausentes - RS"
+            },
+            "serie": {
+              "2021": "155632"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318705",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Leopoldo - RS"
+            },
+            "serie": {
+              "2021": "10855414"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318804",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Lourenço do Sul - RS"
+            },
+            "serie": {
+              "2021": "1701071"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4318903",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Luiz Gonzaga - RS"
+            },
+            "serie": {
+              "2021": "1903783"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319000",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Marcos - RS"
+            },
+            "serie": {
+              "2021": "1145393"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319109",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Martinho - RS"
+            },
+            "serie": {
+              "2021": "354030"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319125",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Martinho da Serra - RS"
+            },
+            "serie": {
+              "2021": "336100"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319158",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Miguel das Missões - RS"
+            },
+            "serie": {
+              "2021": "867930"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319208",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Nicolau - RS"
+            },
+            "serie": {
+              "2021": "228047"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319307",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Paulo das Missões - RS"
+            },
+            "serie": {
+              "2021": "200549"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319356",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Pedro da Serra - RS"
+            },
+            "serie": {
+              "2021": "113228"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319364",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Pedro das Missões - RS"
+            },
+            "serie": {
+              "2021": "114178"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319372",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Pedro do Butiá - RS"
+            },
+            "serie": {
+              "2021": "161665"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319406",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Pedro do Sul - RS"
+            },
+            "serie": {
+              "2021": "532258"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319505",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Sebastião do Caí - RS"
+            },
+            "serie": {
+              "2021": "899461"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319604",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Sepé - RS"
+            },
+            "serie": {
+              "2021": "1331321"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319703",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Valentim - RS"
+            },
+            "serie": {
+              "2021": "135541"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319711",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Valentim do Sul - RS"
+            },
+            "serie": {
+              "2021": "95576"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319737",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Valério do Sul - RS"
+            },
+            "serie": {
+              "2021": "90430"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319752",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Vendelino - RS"
+            },
+            "serie": {
+              "2021": "95748"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319802",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "São Vicente do Sul - RS"
+            },
+            "serie": {
+              "2021": "730555"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4319901",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sapiranga - RS"
+            },
+            "serie": {
+              "2021": "3615599"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320008",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sapucaia do Sul - RS"
+            },
+            "serie": {
+              "2021": "4204086"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320107",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sarandi - RS"
+            },
+            "serie": {
+              "2021": "1299139"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320206",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Seberi - RS"
+            },
+            "serie": {
+              "2021": "617245"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320230",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sede Nova - RS"
+            },
+            "serie": {
+              "2021": "157535"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320263",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Segredo - RS"
+            },
+            "serie": {
+              "2021": "163088"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320305",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Selbach - RS"
+            },
+            "serie": {
+              "2021": "375174"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320321",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Senador Salgado Filho - RS"
+            },
+            "serie": {
+              "2021": "149060"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320354",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sentinela do Sul - RS"
+            },
+            "serie": {
+              "2021": "136267"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320404",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Serafina Corrêa - RS"
+            },
+            "serie": {
+              "2021": "782303"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320453",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sério - RS"
+            },
+            "serie": {
+              "2021": "59572"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320503",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sertão - RS"
+            },
+            "serie": {
+              "2021": "534503"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320552",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sertão Santana - RS"
+            },
+            "serie": {
+              "2021": "314768"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320578",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sete de Setembro - RS"
+            },
+            "serie": {
+              "2021": "105652"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320602",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Severiano de Almeida - RS"
+            },
+            "serie": {
+              "2021": "149414"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320651",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Silveira Martins - RS"
+            },
+            "serie": {
+              "2021": "86631"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320677",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sinimbu - RS"
+            },
+            "serie": {
+              "2021": "213482"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320701",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Sobradinho - RS"
+            },
+            "serie": {
+              "2021": "438644"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320800",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Soledade - RS"
+            },
+            "serie": {
+              "2021": "1405196"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320859",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tabaí - RS"
+            },
+            "serie": {
+              "2021": "142087"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4320909",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tapejara - RS"
+            },
+            "serie": {
+              "2021": "1644548"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321006",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tapera - RS"
+            },
+            "serie": {
+              "2021": "640275"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321105",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tapes - RS"
+            },
+            "serie": {
+              "2021": "603914"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321204",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Taquara - RS"
+            },
+            "serie": {
+              "2021": "1568880"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321303",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Taquari - RS"
+            },
+            "serie": {
+              "2021": "1094083"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321329",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Taquaruçu do Sul - RS"
+            },
+            "serie": {
+              "2021": "188858"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321352",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tavares - RS"
+            },
+            "serie": {
+              "2021": "124254"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321402",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tenente Portela - RS"
+            },
+            "serie": {
+              "2021": "579215"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321436",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Terra de Areia - RS"
+            },
+            "serie": {
+              "2021": "291340"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321451",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Teutônia - RS"
+            },
+            "serie": {
+              "2021": "1576011"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321469",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tio Hugo - RS"
+            },
+            "serie": {
+              "2021": "174784"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321477",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tiradentes do Sul - RS"
+            },
+            "serie": {
+              "2021": "196243"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321493",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Toropi - RS"
+            },
+            "serie": {
+              "2021": "101334"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321501",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Torres - RS"
+            },
+            "serie": {
+              "2021": "1382107"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321600",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tramandaí - RS"
+            },
+            "serie": {
+              "2021": "1234556"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321626",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Travesseiro - RS"
+            },
+            "serie": {
+              "2021": "78088"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321634",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Arroios - RS"
+            },
+            "serie": {
+              "2021": "141197"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321667",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Cachoeiras - RS"
+            },
+            "serie": {
+              "2021": "308570"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321709",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Coroas - RS"
+            },
+            "serie": {
+              "2021": "805149"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321808",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três de Maio - RS"
+            },
+            "serie": {
+              "2021": "1353676"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321832",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Forquilhas - RS"
+            },
+            "serie": {
+              "2021": "64219"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321857",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Palmeiras - RS"
+            },
+            "serie": {
+              "2021": "178530"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321907",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Três Passos - RS"
+            },
+            "serie": {
+              "2021": "1033034"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4321956",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Trindade do Sul - RS"
+            },
+            "serie": {
+              "2021": "351371"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322004",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Triunfo - RS"
+            },
+            "serie": {
+              "2021": "12982404"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322103",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tucunduva - RS"
+            },
+            "serie": {
+              "2021": "259332"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322152",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tunas - RS"
+            },
+            "serie": {
+              "2021": "120845"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322186",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tupanci do Sul - RS"
+            },
+            "serie": {
+              "2021": "94728"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322202",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tupanciretã - RS"
+            },
+            "serie": {
+              "2021": "2052015"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322251",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tupandi - RS"
+            },
+            "serie": {
+              "2021": "533593"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322301",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Tuparendi - RS"
+            },
+            "serie": {
+              "2021": "383535"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322327",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Turuçu - RS"
+            },
+            "serie": {
+              "2021": "163727"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322343",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Ubiretama - RS"
+            },
+            "serie": {
+              "2021": "110732"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322350",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "União da Serra - RS"
+            },
+            "serie": {
+              "2021": "91174"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322376",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Unistalda - RS"
+            },
+            "serie": {
+              "2021": "149067"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322400",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Uruguaiana - RS"
+            },
+            "serie": {
+              "2021": "3717113"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322509",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vacaria - RS"
+            },
+            "serie": {
+              "2021": "3245679"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322525",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vale Verde - RS"
+            },
+            "serie": {
+              "2021": "130453"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322533",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vale do Sol - RS"
+            },
+            "serie": {
+              "2021": "272714"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322541",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vale Real - RS"
+            },
+            "serie": {
+              "2021": "198294"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322558",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vanini - RS"
+            },
+            "serie": {
+              "2021": "94776"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322608",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Venâncio Aires - RS"
+            },
+            "serie": {
+              "2021": "3732042"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322707",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vera Cruz - RS"
+            },
+            "serie": {
+              "2021": "826722"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322806",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Veranópolis - RS"
+            },
+            "serie": {
+              "2021": "1738706"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322855",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vespasiano Corrêa - RS"
+            },
+            "serie": {
+              "2021": "119440"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4322905",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Viadutos - RS"
+            },
+            "serie": {
+              "2021": "204582"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323002",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Viamão - RS"
+            },
+            "serie": {
+              "2021": "4335081"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323101",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vicente Dutra - RS"
+            },
+            "serie": {
+              "2021": "126515"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323200",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Victor Graeff - RS"
+            },
+            "serie": {
+              "2021": "295872"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323309",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vila Flores - RS"
+            },
+            "serie": {
+              "2021": "297553"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323358",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vila Lângaro - RS"
+            },
+            "serie": {
+              "2021": "168933"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323408",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vila Maria - RS"
+            },
+            "serie": {
+              "2021": "389407"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323457",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vila Nova do Sul - RS"
+            },
+            "serie": {
+              "2021": "195943"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323507",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vista Alegre - RS"
+            },
+            "serie": {
+              "2021": "137064"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323606",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vista Alegre do Prata - RS"
+            },
+            "serie": {
+              "2021": "85229"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323705",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vista Gaúcha - RS"
+            },
+            "serie": {
+              "2021": "103513"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323754",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Vitória das Missões - RS"
+            },
+            "serie": {
+              "2021": "159528"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323770",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Westfália - RS"
+            },
+            "serie": {
+              "2021": "264840"
+            }
+          },
+          {
+            "localidade": {
+              "id": "4323804",
+              "nivel": {
+                "id": "N6",
+                "nome": "Município"
+              },
+              "nome": "Xangri-lá - RS"
+            },
+            "serie": {
+              "2021": "733160"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
