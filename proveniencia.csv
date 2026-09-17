@@ -1,1 +1,6 @@
 fonte,url,metodo,parametros,n_linhas,arquivo_bruto,coletado_em
+IBGE Localidades — AM,https://servicodados.ibge.gov.br/api/v1/localidades/estados/13/municipios,"API REST (GET, JSON)","{""uf"": 13}",62,dados_brutos/ibge_localidades_AM.json,2026-09-17T16:03:30+00:00
+IBGE Localidades — RS,https://servicodados.ibge.gov.br/api/v1/localidades/estados/43/municipios,"API REST (GET, JSON)","{""uf"": 43}",497,dados_brutos/ibge_localidades_RS.json,2026-09-17T16:03:30+00:00
+IBGE Localidades — CO_51,https://servicodados.ibge.gov.br/api/v1/localidades/estados/51/municipios,"API REST (GET, JSON)","{""uf"": 51}",142,dados_brutos/ibge_localidades_CO_51.json,2026-09-17T16:03:31+00:00
+IBGE Localidades — CO_52,https://servicodados.ibge.gov.br/api/v1/localidades/estados/52/municipios,"API REST (GET, JSON)","{""uf"": 52}",246,dados_brutos/ibge_localidades_CO_52.json,2026-09-17T16:03:32+00:00
+IBGE Localidades — CO_53,https://servicodados.ibge.gov.br/api/v1/localidades/estados/53/municipios,"API REST (GET, JSON)","{""uf"": 53}",1,dados_brutos/ibge_localidades_CO_53.json,2026-09-17T16:03:32+00:00
