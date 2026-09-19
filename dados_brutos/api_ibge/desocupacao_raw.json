@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4099",
+    "variavel": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+    "unidade": "%",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "5",
+              "nivel": {
+                "id": "N2",
+                "nome": "Grande Região"
+              },
+              "nome": "Centro-Oeste"
+            },
+            "serie": {
+              "202303": "5.4",
+              "202304": "5.7",
+              "202401": "6.0",
+              "202402": "5.4",
+              "202403": "4.9",
+              "202404": "4.9"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

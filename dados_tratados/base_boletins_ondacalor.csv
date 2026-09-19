@@ -1,0 +1,11 @@
+data_ref,ano_mes,fonte,url,temp_max_cuiaba_c,temp_max_brasil_c,umidade_minima_pct,dias_consecutivos_40c,focos_calor_mt,origem_temp_max_cuiaba_c,origem_temp_max_brasil_c,origem_umidade_minima_pct,origem_dias_consecutivos_40c,origem_focos_calor_mt,data_publicacao_meta,data_divergente
+2024-08-15,2024-08,Climatempo,https://www.climatempo.com.br/noticia/2024/08/16/com-41dc-cuiaba-registra-novo-recorde-de-calor-6038,41.0,41.0,,1.0,,manual,manual,,manual,,16/08/2024,True
+2024-08-19,2024-08,IHU/ClimaInfo,https://ihu.unisinos.br/642521-clima-extremo-nova-onda-de-calor-no-brasil-pode-trazer-recordes-de-temperatura-em-agosto,,,10.0,,,,,manual,,,,False
+2024-08-21,2024-08,Climatempo,https://www.climatempo.com.br/noticia/2024/08/22/cuiaba-sete-dias-consecutivos-com-mais-de-40dc-6108,41.4,41.4,,7.0,,manual,manual,,manual,,22/08/2024,True
+2024-08-29,2024-08,Climatempo,https://www.climatempo.com.br/noticia/2024/08/29/agosto-termina-com-mais-de-40dc-no-brasil-6213,41.0,41.0,,,,manual,manual,,,,29/08/2024,True
+2024-08-30,2024-08,,,,,,,,,,,,,,
+2024-09-03,2024-09,Climatempo,https://www.climatempo.com.br/noticia/2024/09/04/calor-acima-dos-40dc-e-umidade-abaixo-de-10-no-brasil-6269,42.0,42.0,10.0,,,manual,manual,manual,,,04/09/2024,True
+2024-09-07,2024-09,SBT News,https://sbtnews.sbt.com.br/noticia/brasil/cuiaba-registra-42-6-c-maior-temperatura-do-pais-segundo-inmet,42.6,42.6,12.0,,,manual,manual,automatico,,,2024-09-08,False
+2024-09-10,2024-09,,,,,,,2124.0,,,,,manual,,
+2024-09-11,2024-09,,,,,,,742.0,,,,,manual,,
+2024-09-24,2024-09,,,,,,,594.0,,,,,manual,,
