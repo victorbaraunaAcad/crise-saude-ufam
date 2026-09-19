@@ -1,0 +1,35 @@
+[
+  {
+    "id": "4099",
+    "variavel": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+    "unidade": "%",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "43",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Rio Grande do Sul"
+            },
+            "serie": {
+              "202302": "5.3",
+              "202303": "5.4",
+              "202304": "5.2",
+              "202401": "5.8",
+              "202402": "5.9",
+              "202403": "5.1",
+              "202404": "4.5",
+              "202501": "5.3",
+              "202502": "4.3"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
