@@ -1,0 +1,10 @@
+data_ref,ano_mes,fonte,url,municipios_emergencia,pessoas_afetadas_mil,familias_afetadas_mil,cota_rio_negro_m,origem_municipios_emergencia,origem_pessoas_afetadas_mil,origem_familias_afetadas_mil,origem_cota_rio_negro_m,data_publicacao_meta,data_divergente
+2023-09-29,2023-09,,,55.0,,,,manual,,,,,
+2023-10-19,2023-10,IHU/ClimaInfo,https://ihu.unisinos.br/633364-amazonas-tem-a-menor-superficie-de-agua-desde-2018-mostra-mapbiomas,,,,,,,,,,False
+2023-10-23,2023-10,Jornal de Brasília,https://jornaldebrasilia.com.br/noticias/brasil/seca-no-amazonas-afeta-mais-de-630-mil-pessoas/,59.0,630.0,158.0,12.89,manual,manual,automatico,manual,,False
+2023-10-25,2023-10,IHU/ClimaInfo,https://ihu.unisinos.br/633559-numero-de-afetados-pela-seca-severa-no-amazonas-sobe-para-633-mil-pess,59.0,633.0,158.0,,manual,manual,manual,,,False
+2023-10-27,2023-10,Diário de Pernambuco,https://www.diariodepernambuco.com.br/noticia/brasil/2023/10/seca-afeta-todos-os-62-municipios-do-amazonas.html,62.0,608.0,152.0,12.7,manual,manual,manual,automatico,2025-09-02,True
+2023-10-28,2023-10,IHU/ClimaInfo,https://ihu.unisinos.br/633708-quase-todos-os-municipios-do-am-estao-em-situacao-de-emergencia-por-causa-da-seca,60.0,600.0,,,automatico,automatico,,,,False
+2023-11-19,2023-11,,,62.0,598.0,150.0,,manual,manual,manual,,,
+2024-07-12,2024-07,IHU/ClimaInfo,https://ihu.unisinos.br/641315-seca-no-amazonas-chega-antes-do-previsto-e-cidades-entram-em-emergencia,20.0,,,26.49,manual,,,automatico,,False
+2024-08-23,2024-08,IHU/ClimaInfo,https://ihu.unisinos.br/categorias/642732-rios-amazonicos-registram-baixa-historica-um-mes-antes-do-pico-da-estiagem,53.0,,,,manual,,,,,False

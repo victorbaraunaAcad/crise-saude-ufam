@@ -1,0 +1,11 @@
+data_ref,ano_mes,fonte,url,municipios_afetados,obitos,desaparecidos,desalojados,pessoas_abrigos,pessoas_afetadas,nivel_guaiba_m,origem_municipios_afetados,origem_obitos,origem_desaparecidos,origem_desalojados,origem_pessoas_abrigos,origem_pessoas_afetadas,origem_nivel_guaiba_m,data_publicacao_meta,data_divergente
+2024-05-01,2024-05,Sul21,https://sul21.com.br/?p=235018,104.0,10.0,21.0,1431.0,1145.0,,,manual,manual,manual,manual,manual,,,2024-05-01,False
+2024-05-02,2024-05,Diário do Nordeste,https://diariodonordeste.verdesmares.com.br/ultima-hora/pais/rio-grande-do-sul-tem-29-mortos-em-chuvas-atualiza-defesa-civil-1.3507808,154.0,29.0,60.0,10242.0,4645.0,71306.0,,manual,manual,manual,manual,manual,manual,,2024-05-02,False
+2024-05-02,2024-05,Sul21,https://sul21.com.br/?p=235344,154.0,29.0,60.0,10242.0,4645.0,71306.0,,manual,manual,manual,manual,manual,manual,,2024-05-02,False
+2024-05-03,2024-05,Sul21,https://sul21.com.br/?p=235669,265.0,39.0,68.0,24080.0,8168.0,351639.0,,manual,manual,manual,manual,manual,manual,,2024-05-03,False
+2024-05-08,2024-05,Sul21,https://sul21.com.br/?p=237057,414.0,100.0,128.0,158992.0,66434.0,,,manual,manual,manual,manual,manual,,,2024-05-08,False
+2024-05-13,2024-05,IHU/Unisinos,https://ihu.unisinos.br/639521-extensao-territorial-e-numero-de-afetados-tornam-tragedia-no-rs-inedita-no-brasil,450.0,148.0,124.0,538000.0,,2100000.0,5.21,manual,manual,manual,manual,,manual,manual,,False
+2024-05-16,2024-05,Sul21,https://sul21.com.br/?p=238281,,151.0,104.0,,,,,,manual,manual,,,,,2024-05-16,False
+2024-05-17,2024-05,Correio Braziliense,https://www.correiobraziliense.com.br/brasil/2024/05/6859198-mais-de-90-dos-municipios-gauchos-sao-atingidos-pela-tragedia-climatica-no-sul.html,461.0,154.0,98.0,540192.0,77199.0,2281830.0,,manual,manual,manual,manual,manual,manual,,2024-05-17,False
+2024-05-17,2024-05,Sul21,https://sul21.com.br/?p=238419,461.0,154.0,98.0,540192.0,77199.0,2281830.0,,manual,manual,manual,manual,manual,manual,,2024-05-17,False
+2025-04-24,2025-04,,,478.0,184.0,25.0,,,,,manual,manual,manual,,,,,,
