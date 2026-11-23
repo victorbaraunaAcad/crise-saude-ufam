@@ -1,24 +1,27 @@
 # Projeto Crise e Saúde (IComp/UFAM)
 
-Análise dos impactos de eventos climáticos extremos sobre o sistema público de saúde (SUS) e o contexto socioeconômico em três frentes regionais: **Amazonas (AM)**, **Centro-Oeste (CO)** e **Rio Grande do Sul (RS)**.
+Como a falta (seca no AM) e o excesso de água (enchente no RS) afetam as internações por doenças ligadas à água, município a município. Os dados do Centro-Oeste (calor) ficam no repositório como registro da fase 1, mas não entram na análise.
 
----
+## Estrutura
 
-## 📓 Notebooks de Execução (`.ipynb`)
+| Pasta / arquivo | O que tem |
+|---|---|
+| `relatorio.md` | Big Idea, ABT, storyboard do vídeo e contribuições individuais |
+| `requirements.txt` | Dependências Python |
+| `notebooks/00_coleta_ibge.ipynb` | Coleta IBGE (antigo `coleta.ipynb`) |
+| `notebooks/00_coleta_datasus.ipynb` | Coleta SIH/SIM/SINAN (antigo `coleta_DATASUS.ipynb`) |
+| `notebooks/01_eda.ipynb` | EDA e ampliação da base (a preencher) |
+| `notebooks/02_modelagem.ipynb` | Modelos supervisionados e agrupamento (a preencher) |
+| `notebooks/legado_fase1/` | Notebooks da entrega da fase 1, preservados |
+| `data/raw/` | Dados brutos, nunca editados (parquet via Git LFS, JSON de APIs, conferência manual) |
+| `data/processed/` | Bases tratadas e consolidadas (`.csv` e `.parquet`) |
+| `figures/` | Gráficos usados no video |
+| `docs/dataset_card.md` | Dataset card |
+| `docs/proveniencia.csv`, `docs/registro_proveniencia.csv` | Logs de proveniência |
+| `docs/legado/` | Entrega e README da fase 1 |
 
-* **`trabalho1_executavel.ipynb`**: Coleta as bases brutas e executa todo o pipeline do zero (requer elevada memória RAM).
-* **`tratamento_e_integracao.ipynb`**: Baixa os dados pré-filtrados do Google Drive e executa apenas o tratamento e integração (ideal para máquinas com menor memória RAM).
+## Observações
 
----
-
-## 📊 Arquivos Finais por Estado / Região (`.csv`)
-
-* **`base_indicadores_am_final.csv`**: Indicadores e métricas do estado do **Amazonas** (crise de estiagem).
-* **`base_indicadores_co_final.csv`**: Indicadores e métricas da região do **Centro-Oeste** (crise de ondas de calor e queimadas).
-* **`base_indicadores_rs_final.csv`**: Indicadores e métricas do estado do **Rio Grande do Sul** (crise das enchentes).
-
----
-
-## 📁 Datasets Consolidados (`.csv`)
-
-* **`base_consolidada_municipios.csv`**: Visão unificada com os dados de todos os municípios analisados.
+* Os `.parquet` usam **Git LFS**: rode `git lfs install` antes de clonar (ou `git lfs pull` depois), senão vêm como arquivos de texto.
+* Os notebooks da coleta rodam no Colab: clonam o repo e fazem `%cd` para a **raiz**, de onde resolvem `data/raw`, `data/processed` e `docs/`. Localmente, execute-os com a raiz como diretório de trabalho.
+* Novos arquivos de coleta vão direto em `data/raw/` (ex.: `RAIZ_BRUTOS = RAIZ / "data" / "raw"`).

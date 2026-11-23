@@ -1,0 +1,18 @@
+# Coleta / tratamento (fase 1)
+pandas
+numpy
+pyarrow
+requests
+httpx
+beautifulsoup4
+unidecode
+pysus
+duckdb
+nest_asyncio
+gdown
+# EDA e modelagem (fase 2)
+shap
+scikit-learn
+matplotlib
+seaborn
+jupyter

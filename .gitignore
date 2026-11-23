@@ -217,11 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# HTML bruto de notícias (não redistribuir)
-dados_brutos/scraping_*/**/*.html
 
 # HTML bruto de notícias (não redistribuir)
-dados_brutos/scraping_*/**/*.html
-
-# HTML bruto de notícias (não redistribuir)
-dados_brutos/scraping_*/**/*.html
+data/raw/scraping_*/**/*.html
