@@ -1,0 +1,36 @@
+[
+  {
+    "id": "4099",
+    "variavel": "Taxa de desocupação, na semana de referência, das pessoas de 14 anos ou mais de idade",
+    "unidade": "%",
+    "resultados": [
+      {
+        "classificacoes": [],
+        "series": [
+          {
+            "localidade": {
+              "id": "13",
+              "nivel": {
+                "id": "N3",
+                "nome": "Unidade da Federação"
+              },
+              "nome": "Amazonas"
+            },
+            "serie": {
+              "202203": "9.4",
+              "202204": "10.1",
+              "202301": "10.5",
+              "202302": "9.7",
+              "202303": "9.6",
+              "202304": "8.8",
+              "202401": "9.8",
+              "202402": "8.0",
+              "202403": "8.2",
+              "202404": "8.3"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
