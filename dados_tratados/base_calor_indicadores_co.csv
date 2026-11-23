@@ -1,0 +1,17 @@
+ano_mes,n_boletins,temp_max_cuiaba_c,temp_max_brasil_c,umidade_minima_pct,dias_consecutivos_40c,focos_calor_mt,ipca_variacao_mensal,ipca_localidade,ipca_periodo_original,taxa_desocupacao,desocupacao_localidade,desocupacao_periodo_original,em_crise
+2023-09,0,,,,,,0.29,Brasília (DF),202309,5.4,Centro-Oeste,202303,
+2023-10,0,,,,,,0.62,Brasília (DF),202310,5.7,Centro-Oeste,202304,
+2023-11,0,,,,,,0.4,Brasília (DF),202311,5.7,Centro-Oeste,202304,
+2023-12,0,,,,,,0.78,Brasília (DF),202312,5.7,Centro-Oeste,202304,
+2024-01,0,,,,,,-0.36,Brasília (DF),202401,6.0,Centro-Oeste,202401,
+2024-02,0,,,,,,0.75,Brasília (DF),202402,6.0,Centro-Oeste,202401,
+2024-03,0,,,,,,0.21,Brasília (DF),202403,6.0,Centro-Oeste,202401,
+2024-04,0,,,,,,0.55,Brasília (DF),202404,5.4,Centro-Oeste,202402,
+2024-05,0,,,,,,0.34,Brasília (DF),202405,5.4,Centro-Oeste,202402,
+2024-06,0,,,,,,0.34,Brasília (DF),202406,5.4,Centro-Oeste,202402,
+2024-07,0,,,,,,0.36,Brasília (DF),202407,4.9,Centro-Oeste,202403,
+2024-08,5,41.4,41.4,10.0,7.0,,0.17,Brasília (DF),202408,4.9,Centro-Oeste,202403,True
+2024-09,5,42.6,42.6,10.0,,2124.0,0.26,Brasília (DF),202409,4.9,Centro-Oeste,202403,True
+2024-10,0,,,,,,0.68,Brasília (DF),202410,4.9,Centro-Oeste,202404,
+2024-11,0,,,,,,0.3,Brasília (DF),202411,4.9,Centro-Oeste,202404,
+2024-12,0,,,,,,0.26,Brasília (DF),202412,4.9,Centro-Oeste,202404,
