@@ -4,7 +4,7 @@
 * **Nome da base:** Base Consolidada de Impactos Climáticos, Socioeconômicos e de Saúde (`base_consolidada_municipios`, `base_indicadores_uf_final` e bases temáticas regionais).
 * **Grupo / integrantes:** Leonardo Brandão do Amarante, Victor Henrique Maia Baraúna, Pedro Vinicius Weil Montenegro, Gabriel Conceição dos Santos
 * **Tema e pergunta motivadora:** Impacto de eventos climáticos extremos (enchentes no RS, estiagem no AM e ondas de calor no Centro-Oeste) sobre os indicadores de saúde pública (internações, custos hospitalares e mortalidade) e contexto socioeconômico (população, PIB e desemprego) no nível municipal e estadual. *Pergunta motivadora:* Como desastres ambientais extremos afetam a demanda do sistema público de saúde (SIH/SIM) e de que forma essa vulnerabilidade se relaciona com fatores socioeconômicos e demográficos nos municípios e estados atingidos?
-* **Data da coleta:** Execução automatizada registrada nos logs de proveniência (`registro_proveniencia.csv`), abrangendo coletas entre 2024 e 2026.
+* **Data da coleta:** Execução automatizada registrada nos logs de proveniência (`docs/registro_proveniencia.csv` (versão legível: `docs/proveniencia.md`)), abrangendo coletas entre 2024 e 2026.
 
 ## A.2 Fontes e proveniência
 * **Fonte 1 - nome e URL:** IBGE (APIs REST de Localidades e SIDRA) — `https://servicodados.ibge.gov.br/api/v1/localidades/` e `https://sidra.ibge.gov.br/`
