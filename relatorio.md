@@ -1,7 +1,7 @@
-# Storytelling com dados — Grupo XX
+# Storytelling com dados: Crise e Saúde
 
 ## 1. Identificação
-- Membros: Leonardo Brandão do Amarante (xxx), Victor Henrique Maia Baraúna (xxx), Pedro Vinicius Weil Montenegro (22551161), Gabriel Conceição dos Santos (xxx)
+- Membros: Leonardo Brandão do Amarante (22551724), Victor Henrique Maia Baraúna (22554381), Pedro Vinicius Weil Montenegro (22551161), Gabriel Conceição dos Santos (22551152)
 - Tema da base: Seca no AM (2023–2024) e enchente no RS (2024) e internações por doenças ligadas à água (SIH/SIM/SINAN), com perfil socioeconômico (IBGE). Dados do Centro-Oeste ficam como registro da fase 1, fora da análise
 - Houve ampliação da base? Sim (planejada; confirmar ao concluir). Ampliação 1: municípios atingidos (Atlas Digital de Desastres / S2iD). Ampliação 2: SIH 2022–2023 (RS) e 2022 (AM) e SINAN leptospirose 2022–2023 como anos de referência
 - Link do vídeo (não listado):
